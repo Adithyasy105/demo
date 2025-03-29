@@ -1,2 +1,2 @@
 # demo 
-auth Adithya sy
+auth Adithya
